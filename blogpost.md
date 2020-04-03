@@ -1,8 +1,8 @@
-What is a Full Stack Developer?
+# What is a Full Stack Developer?
 
 A full stack developer is an engineer that works with both front and back ends of an application. We take on projects that involve databases, building user-facing websites, or even work with clients during the planning phase of projects.
 
-Full stack web developers:
+### Full stack web developers:
 
     Are familiar with HTML, CSS, JavaScript, and one or more back end languages.
     Most full stack developers specialize in a particular back end programming language, like Ruby or PHP or Python, although some, especially if they’ve been working as a developer for a while, work with more than one. In job listings, you’ll generally see openings for “full stack Ruby developer” or the like.
