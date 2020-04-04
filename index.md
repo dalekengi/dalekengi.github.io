@@ -1,3 +1,12 @@
+# Conspiracy against America
+### April 4 2020
+
+https://www.change.org/p/united-nations-call-for-the-resignation-of-tedros-adhanom-ghebreyesus-who-director-general
+
+I want to take a minute to rite about this pandemic. China played dumb, China lied, and China prevented the WHO from acting in time to save the rest of the world. Thank God for technology or no one would know about this act of war on the entire world. Russia pulled the same cover up, deny deny deny crap with Chernobyl and with anthrax. Only God knows how much China has fucked everyone and got away with it.
+
+God bless and stay safe out there. Work from home!
+
 
 # What is a Full Stack Developer?
 ### March 2 2020
